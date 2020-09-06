@@ -124,7 +124,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = 'C:\\GitHub\\random-python-scripts\\django_todo\\simple_todo\\simple_todo\\static'
+STATIC_ROOT = 'C:\\GitHub\\random-python-scripts\\django_todo\\simple_todo\\static'
 
 STATICFILES_DIRS = [
     'simple_todo/static'
